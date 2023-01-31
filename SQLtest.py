@@ -25,9 +25,12 @@ def check_user(data):
     '''
     res = connection(query)
     for user in res:
-        if data['']
-    print(res)
+        if data['login'] == user[0]:
+            if data['password'] == user[1]:
+                return 'Вы вошли в свой аккаунт'
+        else:
+            return 'Пользователя с таким логин/пароль не существуем'
 
 
 
-check_user(1)
+

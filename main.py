@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request
-from SQLtest import connection, add_user
+from SQLtest import connection, add_user, check_user
+
 app = Flask(__name__)
 
 @app.route('/')
@@ -24,7 +25,7 @@ def userprofile():
 def log_in():
     data = request.form.to_dict()
     print(data)
-    return 'Выполнено'
+    return check_user(data)
 
 
 app.run(debug=True)

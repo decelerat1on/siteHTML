@@ -4,18 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1da1efc-a689-444f-8284-d6a4f3802fc2" name="Changes" comment="1">
-      <change afterPath="$PROJECT_DIR$/SQLtest.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/form.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/input.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/registerhtml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/siteHTML.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/siteHTML.iml" afterDir="false" />
+    <list default="true" id="a1da1efc-a689-444f-8284-d6a4f3802fc2" name="Changes" comment="NEW">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQLtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/SQLtest.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/any.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/any.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/styles.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +61,7 @@
       <recent name="C:\Users\arabr\PycharmProjects\siteHTML\static\css" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.SQLtest">
+  <component name="RunManager" selected="Python.main">
     <configuration name="SQLtest" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="siteHTML" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,7 +126,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674491552319</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="NEW">
+      <created>1675124542688</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675124542688</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -150,6 +149,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="NEW" />
+    <option name="LAST_COMMIT_MESSAGE" value="NEW" />
   </component>
 </project>
